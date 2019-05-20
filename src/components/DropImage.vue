@@ -56,7 +56,7 @@ export default {
         const {
           data: { imageinfo }
         } = await axios.get('http://www.nbutlab.com:5000/todo/api/v1/image', {
-          params: time
+          params: { time }
         })
         return imageinfo
       } catch (error) {
