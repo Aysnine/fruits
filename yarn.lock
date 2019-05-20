@@ -7888,6 +7888,11 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.npm.taobao.org/vue-hot-reload-api/download/vue-hot-reload-api-2.3.3.tgz#2756f46cb3258054c5f4723de8ae7e87302a1ccf"
   integrity sha1-J1b0bLMlgFTF9HI96K5+hzAqHM8=
 
+vue-img-inputer@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.npm.taobao.org/vue-img-inputer/download/vue-img-inputer-2.1.3.tgz#6da8dea2e55aeb36b68a33a18dfadcfc2c37028f"
+  integrity sha1-bajeouVa6za2ijOhjfrc/Cw3Ao8=
+
 vue-loader@^15.7.0:
   version "15.7.0"
   resolved "https://registry.npm.taobao.org/vue-loader/download/vue-loader-15.7.0.tgz#27275aa5a3ef4958c5379c006dd1436ad04b25b3"
